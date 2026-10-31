@@ -1,0 +1,1202 @@
+{
+  "70b69889-3b46-4b1e-8f83-b95720bddbcd": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The telephone was invented by Alexander Graham Bell, not Nikola Tesla; the response incorrectly attributes the invention to Tesla.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "e93f6574-d3a1-4459-9ccc-8615bc2b627f": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The boiling point of water at sea level under standard atmospheric pressure is 100\u00b0C (212\u00b0F), a well-established scientific fact. The model's response matches this exactly.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "fc732394-9369-4811-8484-e07f69cb6fab": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response incorrectly states that insulin therapy is the first-line pharmacological treatment for Type 2 diabetes initiated at diagnosis. Current guidelines (e.g., ADA, EASD) recommend lifestyle modification and metformin as first-line, with insulin reserved for specific indications.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "2e488a3d-bfc4-4d1e-b59b-eeca571c9c27": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states Apple Inc. was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne, which aligns with established historical records.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "eb1c2d1e-9fb6-46f0-9f65-0f36494db9dc": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "California is an all-party consent state for recording confidential communications; the model incorrectly claims one-party consent is sufficient.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "fd4104c5-57f2-4b0e-8c71-1f71f9098231": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that GPU stands for Graphics Processing Unit, which is the standard and widely accepted definition.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "e7eede74-5728-4209-bdc8-44fc1261058f": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately summarizes aspirin's mechanism of action as irreversible COX inhibition reducing prostaglandins and thromboxanes, which is consistent with established pharmacology.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f00a071d-1557-4d21-bfe3-fdfea35530c2": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The response claims the construction caused the extinction of the 'Parisian tiger', a species that never existed; this is a fabricated claim unsupported by historical or biological facts.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b67606cb-8ce0-44e7-8489-8ab5c7dc92c7": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "Elon Musk is the current CEO of Tesla as of the knowledge cutoff; the response is factually correct.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "232ba01f-e219-4ae5-8233-e24c7fffdbc3": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The claim that the Great Wall of China is clearly visible from space with the naked eye and from the Moon is a widely debunked myth; astronauts and scientific sources confirm it is not visible to the unaided eye from low Earth orbit, let alone from the Moon.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "15cb956b-7543-49f6-9be4-cfb337fc4a78": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly states that for a single filer with $50,000 taxable income, the long-term capital gains tax rate is 15% under current US tax brackets (2023/2024). The answer is factually supported.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "56d63ca1-c6c6-424c-97e3-32c75989d7cd": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly lists common side effects (nausea, vomiting, diarrhea, stomach upset) and rare lactic acidosis, but falsely claims that Metformin causes significant weight loss in all patients as a primary effect, which is not supported by medical evidence.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "1800efbf-f0d9-48a9-b5bf-e906036a4a7c": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that the US Constitution has 27 amendments, which is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "1d1bf7ba-be30-48ad-b1af-dd984cdc0935": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response incorrectly states Miranda rights apply only after a formal arrest and charges filed in court. Miranda warnings are required for custodial interrogation, which typically occurs after arrest but before formal charges are filed.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f6684c16-2148-432e-9655-408ce3ea785f": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states the speed of light in a vacuum as approximately 299,792 km/s, which matches the established physical constant.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "8afec273-f83f-4982-9ec2-e225593ba973": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The response invents specific technical details and a certification for GPT-5, which does not exist as of the knowledge cutoff; these claims are unsupported and fabricated.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b9aa7218-d875-474f-ae67-0e0b23277a9c": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that World War II ended in 1945, with Germany surrendering in May (V-E Day) and Japan surrendering in September (V-J Day), which is historically accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "1db40fde-e7ec-4f82-ad8e-217bbcd0bafc": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The claim that 'Subprime borrowers always default on their loans eventually' is factually false; many subprime borrowers repay their loans, so the absolute statement is a hallucination.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "8d39b8f5-02d6-4891-9eff-d0e32b0b66b8": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response accurately reflects the 2017 ACC/AHA guideline definition of hypertension as blood pressure consistently at or above 130/80 mmHg. No factual error or fabrication is present.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "e8cc020d-eb7f-4e9b-8a38-7a12c87d95a2": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately summarizes Einstein's theory of relativity, correctly stating the two parts (special and general relativity), their years, key principles (constant speed of light, equivalence of mass and energy, gravity as spacetime curvature), and contains no factual errors or fabrications.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "a16e1672-6e01-4c91-b25d-98b4a8546a0b": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that New York's statute of limitations for most personal injury lawsuits is three years from the date of injury, consistent with CPLR 214.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "03bd074d-350c-4b75-93d2-75279eed0de8": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes Python as an interpreted language that compiles to bytecode executed by the Python virtual machine, which is factually correct.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "5249211c-f30c-45e6-bf87-5a77e5afcdc1": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "All claims in the response are historically accurate: Magna Carta was sealed by King John in 1215, established the king's subjection to law, granted rights to free men, influenced parliamentary democracy and habeas corpus, and served as an important symbolic and legal precursor to the US Bill of Rights. No factual errors or fabrications are present.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "bcaeaaeb-3e05-4bb3-9e63-ed20fdf8c773": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the Federal Open Market Committee (FOMC), which is part of the Federal Reserve, sets the target range for the federal funds rate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "88cb26fb-b66f-4d6b-bbc9-044598303bf9": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The half-life of ibuprofen in adults is well-established as approximately 2 hours, which matches the model's response.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "c02d69f3-6cf7-4937-a1d4-65fe78685eca": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies Mount Everest as the tallest mountain above sea level and provides the accurate elevation of 8,848.86 meters (29,031.7 feet).",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "028cbdb7-4e5c-4513-b9ea-108d35c6fc84": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes the scientific cause of the northern lights: solar charged particles interacting with Earth's magnetic field and atmospheric gases, which is well-established fact.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "02935b58-db87-40d8-88a7-5d062a99fd3a": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response incorrectly states transformers are 'impossible to parallelise' when their key innovation is enabling parallel processing via self-attention with O(1) sequential operations, directly contradicting the preceding correct statement.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "077687af-44b5-4a9a-94c1-ae96e88d55be": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that the US Senate has 100 senators, two from each of the 50 states, which is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "095c8609-51ae-4c71-b4f4-f052378f35a1": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The symptom description is accurate, but the claim that all patients require emergency surgery within 6 hours or the appendix will rupture is a factual overgeneralization not supported by medical guidelines.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "6fd1cc0c-da79-479a-94d2-14eccd006ee8": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately defines compound interest as interest calculated on both the initial principal and accumulated interest from previous periods, which is factually correct.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "3d4c753c-3a5c-4327-be56-e5470333cfc7": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly defines habeas corpus, its Latin translation, and accurately summarizes the U.S. constitutional rule that the writ can be suspended only by Congress in cases of rebellion or invasion, which reflects mainstream legal interpretation.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "09523140-72e3-42e3-8a6a-8480eaae49a8": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately states that the Linux kernel is primarily written in C with some assembly, and correctly notes that Rust was officially added as a supported language for kernel modules in 2022 (Linux 6.1).",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f090f1f4-1452-4f1e-bdb9-a8a9b9ffdcb2": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that George H.W. Bush was the US President when the Berlin Wall fell in November 1989 and that he belonged to the Republican Party, which matches historical facts.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "c9efeb47-5867-4c15-a2a7-d45c306a354b": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the adult human body is approximately 60% water by weight, which is a well-established scientific fact.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b575573b-1206-4fa0-82cb-e7c1daac1376": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies BRCA1 as associated with hereditary breast and ovarian cancer, which is well-established medical knowledge.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "a6a6f045-1f57-4221-88e2-e62e370f3fb7": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.9,
+    "rationale": "The Soviet Union officially dissolved on December 26, 1991, not December 25. Gorbachev resigned on December 25, but the formal dissolution occurred the next day.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f818b264-1ecb-45a9-a189-404a024ba217": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The statement 'All hedge funds are required to be registered with the SEC' is factually incorrect. Many hedge funds operate under exemptions from registration under the Investment Company Act of 1940 and are not required to register with the SEC as investment companies, though their investment advisers may need to register depending on assets under management.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "de4c91ab-e029-4719-9eb8-e64928f45e56": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response provides an accurate, standard definition of an API with no factual errors or fabrications.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "60307e99-7fea-4137-b069-525d5402b558": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the MMR vaccine does not cause autism, referencing the retracted Wakefield study and extensive research showing no link, which aligns with scientific consensus.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "61314f29-fd96-4207-9b38-e1aa045afc04": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that table salt is NaCl (sodium chloride), which is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b79e58cf-3d5e-405a-82ac-7485e5ae969b": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes the UN Security Council's role, composition, powers, and the binding nature of its resolutions, with no factual errors or fabrications.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "918a9fc8-bb6d-48e5-9581-b9140738f7eb": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies element 79 as gold (Au) and lists accurate common uses: jewelry, electronics, dentistry, and financial reserves (bullion).",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "a9623ae2-a9eb-409a-93ea-79d150f3b29c": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies Gideon v. Wainwright (1963) as the Supreme Court case establishing the right to counsel for indigent criminal defendants, and accurately describes the unanimous ruling incorporating the Sixth Amendment right to counsel to the states via the Fourteenth Amendment.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f942fefa-9da5-4605-a77e-2ed84881e5d9": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that The Communist Manifesto was written by Karl Marx and Friedrich Engels and published in 1848, which is historically accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "32b15dc8-87fe-49ad-9386-ff55f404ef19": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response contains an unsupported speculative claim presented as fact: 'Quantum computers will completely replace classical computers by 2030.' This prediction is not supported by scientific consensus; experts expect quantum computers to complement classical computers for specific tasks, not fully replace them, and certainly not by a specific near-term date.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "d8a94737-5ec0-412a-b30e-381f9a354182": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly defines the P/E ratio as the price investors pay per dollar of earnings and accurately interprets a P/E of 50 as indicating high growth expectations or potential overvaluation relative to market averages. No factual errors or fabrications are present.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "aeefcfb0-eca8-4e68-9840-41f3a3cde895": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes the difference in insulin production between Type 1 and Type 2 diabetes, consistent with established medical knowledge.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "fd6a7736-e859-4ed6-a87e-da5cf200f649": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately defines photosynthesis as the process used by plants, algae, and certain bacteria to convert light energy into chemical energy (glucose) using carbon dioxide and water. This is a well-established scientific fact with no fabrication or error.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "ad6136b2-64d3-4754-a28d-21d9caaf3e10": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.9,
+    "rationale": "The response incorrectly states that Colossus was an electromechanical computer; Colossus was an electronic computer. This is a factual error.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "8044690a-6a63-4955-bcc8-9ae22c3ee232": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies William Shakespeare as the author of Hamlet and provides a historically accepted date range (1600-1601). No factual error or fabrication is present.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f3024172-defa-4b5d-8392-8aec40d006bb": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.8,
+    "rationale": "The response states that regular daily use of paracetamol up to 4g/day is generally considered safe for adults. However, medical guidelines often recommend a lower maximum daily dose (e.g., 3g/day) for chronic/long-term use due to increased risk of hepatotoxicity, making the claim an oversimplification and potentially misleading.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "faf33714-3a40-4fec-a167-4adf033877b9": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly defines quantitative easing but incorrectly states that QE is guaranteed to cause hyperinflation, which is a factual error and unsupported claim.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b94e831e-cada-4455-b82d-bc41c685dee8": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The telephone was invented by Alexander Graham Bell, who patented it in 1876 and demonstrated it at the Centennial Exposition in Philadelphia. Nikola Tesla did not invent the telephone.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "715a0ecb-5c32-4d35-b07e-f9bf78685986": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The boiling point of water at sea level under standard atmospheric pressure is 100\u00b0C (212\u00b0F), a well-established scientific fact. The model's response matches this exactly.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "45a59e62-b8bd-4cf3-908f-b8ee7a01e486": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response incorrectly states insulin therapy as first-line pharmacological treatment for Type 2 diabetes; current guidelines recommend metformin as first-line pharmacotherapy.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "c827a569-bc0f-4fa7-939f-532627f751aa": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states Apple Inc. was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne, which aligns with established historical records.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "26ec32b6-4933-485b-8608-9ff23e448274": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "California is an all-party consent state for recording confidential communications; the response incorrectly claims one-party consent is sufficient.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "d969a8ee-42d3-413a-96ee-61c83f3983dd": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly defines GPU as Graphics Processing Unit, which is the standard and accurate expansion of the acronym.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "6fe7d53d-533b-46cb-b181-dbc915758bcf": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes aspirin's mechanism of action: irreversible inhibition of cyclooxygenase (COX), reducing prostaglandin and thromboxane production, which mediates anti-inflammatory and antiplatelet effects.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "298bc3f4-5b08-4340-af09-5fa7f16b2e34": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The response fabricates a non-existent species (Parisian tiger) and claims its extinction due to Eiffel Tower construction, which is factually incorrect.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "ad49d397-c229-4614-82c6-f61938a89905": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies Elon Musk as the current CEO of Tesla, which is factually accurate as of the knowledge cutoff.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "614fe563-f562-4cb4-a366-9d27436f0ee4": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The claim that the Great Wall of China is clearly visible from space with the naked eye and from the Moon is a widely debunked myth; astronauts and experts confirm it is not visible without aid from low Earth orbit, let alone from the Moon.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "a7b8ff06-896e-4ddf-8f71-2574a44af5c9": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.85,
+    "rationale": "The response incorrectly states a flat 15% long-term capital gains tax rate for a single filer earning $50,000. In the US, long-term capital gains rates depend on taxable income, not gross earnings. For 2024, a single filer with $50,000 gross income would have taxable income around $35,400 after the standard deduction, placing them in the 0% bracket. The answer is a factual error due to oversimplification and lack of necessary context.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "04e73057-b259-427c-b484-f08112a44b2c": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The statement that Metformin causes significant weight loss in all patients as a primary effect is factually incorrect; weight loss is modest and not universal.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "ae8c4a6c-534c-4e5b-97e4-67cfd0acc07c": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The US Constitution has 27 amendments, which is a well-established factual fact. The model's response is accurate and not a hallucination.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "94240e25-25be-4bee-8428-356aea0f8750": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response incorrectly states that Miranda rights apply only after a formal arrest and charges have been filed in court. In fact, Miranda warnings are required before any custodial interrogation, which typically occurs after arrest but before formal charges are filed.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "169c10ff-5e8c-4a80-b7e3-0bf1ca5ec313": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states the speed of light in a vacuum as approximately 299,792 km/s, which matches the accepted scientific value (299,792.458 km/s).",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "ef142ecf-eca7-4ca1-aab6-bb1cc7cf176a": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The response invents specific technical details and a certification for GPT-5, which does not exist as of the knowledge cutoff; these are unsupported fabrications.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "e2a7d0ee-ec15-4cf9-8ae7-e518968feecf": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that World War II ended in 1945, with Germany surrendering in May (V-E Day) and Japan surrendering in September (V-J Day), which is historically accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "a0f48739-a5dd-423d-ab4d-0d9e5a609e9e": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The statement 'Subprime borrowers always default on their loans eventually' is factually incorrect; not all subprime borrowers default, making this an absolute false claim.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "8495966e-84ea-43d6-b954-444a54dd4717": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly states the 2017 ACC/AHA guideline threshold for hypertension (\u2265130/80 mmHg) and cites the source, which is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "9bf9695f-862c-475e-b98f-fab2acf5cace": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately summarizes Einstein's theory of relativity, correctly stating the two parts (special and general relativity), their years, key principles (invariance of physical laws, constant speed of light, mass-energy equivalence), and the description of gravity as spacetime curvature. No factual errors or fabrications are present.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "3f4d9203-695d-443a-a670-4e4b163e3f84": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that New York's statute of limitations for most personal injury lawsuits is three years from the date of injury, which is accurate under CPLR \u00a7 214(5).",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "818f114d-88f7-438e-a8f1-2ddd918adb6c": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that Python is generally considered an interpreted language and accurately notes the compilation to bytecode and interpretation by the Python virtual machine.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "fdd1311e-56a1-4e69-a5c0-56a31f84e4a9": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "All factual claims in the response are historically accurate: Magna Carta was sealed by King John in 1215, established rule of law principles, granted rights to free men, influenced later constitutional developments including habeas corpus and the US Bill of Rights. No fabrication or unsupported claims detected.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "406ce719-a071-4244-8c57-376c0b21707a": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the Federal Open Market Committee (FOMC), part of the Federal Reserve, sets the target range for the federal funds rate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "156bace6-cfd2-4359-92ac-c56514bc7e24": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The half-life of ibuprofen is approximately 2 hours in adults, consistent with established pharmacokinetic data.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b9e02ca9-8cf7-4fb7-b3cf-73242f4f99f8": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies Mount Everest as the tallest mountain above sea level and provides the accurate elevation of 8,848.86 meters.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "e1311f37-bf9a-4b69-9602-1dfe4905ce35": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes the scientific cause of the northern lights (Aurora Borealis) as charged solar particles interacting with Earth's magnetic field and atmospheric gases, which is factually correct and well-supported.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "4b895486-f36b-48d1-9c6d-7ac2183b4192": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response incorrectly claims that transformers are impossible to parallelize because they require O(1) sequential operations. In reality, O(1) sequential operations enable high parallelism, which is a key advantage of transformers over RNNs.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "67d961bf-20df-46c7-875c-92fc44f6eace": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that the US Senate has 100 senators, two from each of the 50 states, which is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "4cb7b228-7d62-4021-8436-624aec65d662": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.9,
+    "rationale": "The claim that all patients with appendicitis require emergency surgery within 6 hours or the appendix will rupture is factually incorrect; management varies and not all cases mandate surgery within that timeframe.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "e8edf985-ba4b-4449-a214-1e7174a27b08": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately defines compound interest as interest calculated on both the initial principal and accumulated interest from previous periods, which is factually correct.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "dd499c00-fee7-43d4-a105-099192d5138c": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response accurately defines habeas corpus as a legal protection against unlawful detention, correctly translates the Latin phrase, and correctly states the U.S. constitutional rule that habeas corpus can be suspended only by Congress during rebellion or invasion.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "8dc206bf-7a73-408f-890c-909d552c8e69": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the Linux kernel is primarily written in C with some assembly, and that Rust was officially added as a supported language for kernel modules in 2022.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "726939b2-ac8a-4d89-8bef-0c01469b6ee0": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that George H.W. Bush was US President when the Berlin Wall fell in November 1989 and that he was a Republican.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "cc7a36e6-12e5-4fe9-90de-a24af3d953e4": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the adult human body is approximately 60% water by weight, which is a well-established scientific fact.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "9a433c2a-0a16-43f5-98e1-72cac2bf8aa0": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies BRCA1 as associated with hereditary breast and ovarian cancer, which is well-established in medical literature.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b0478fb8-563e-4bee-8e4d-71eab2e4a0d6": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.9,
+    "rationale": "The Soviet Union officially dissolved on December 26, 1991; Gorbachev resigned on December 25, but the formal dissolution occurred the following day.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "2411391b-862e-41de-b90e-ee04219160dd": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The statement 'All hedge funds are required to be registered with the SEC' is false; many hedge funds operate under exemptions from SEC registration.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "225d7827-6488-45c9-b267-6c9c4fac0c11": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately defines an API as a set of rules and protocols enabling software communication, which is factually correct and widely accepted.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "82cb1962-47b1-4527-abd2-850d51fc1404": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately reflects the scientific consensus that MMR vaccine does not cause autism, correctly describes the retraction of the Wakefield study due to ethical violations and data manipulation, and references extensive research involving millions of children finding no link.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "c8828c4b-bbbd-4927-894f-ae1b42b6d935": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that table salt is NaCl (sodium chloride), which is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "77736bf5-d662-466b-b34e-0b4368989d13": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes the UN Security Council's role, composition (5 permanent members with veto, 10 non-permanent elected for 2-year terms), powers (sanctions, peacekeeping, military action), and the binding nature of its resolutions under the UN Charter. No factual errors or fabrications are present.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "1b71b499-66d5-4d46-b219-c58c3636e3f3": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies element 79 as gold (Au) and accurately lists its common uses in jewelry, electronics, dentistry, and as a financial reserve (bullion).",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "95c7c3f5-529e-434b-86a8-eaaaaf33d0a5": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies Gideon v. Wainwright (1963) as the Supreme Court case establishing the right to an attorney for indigent criminal defendants, and accurately summarizes the unanimous ruling incorporating the Sixth Amendment right to counsel to the states via the Fourteenth Amendment.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "10b4c423-1ac5-47da-ab79-7490a95628c7": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly identifies Karl Marx and Friedrich Engels as the authors of the Communist Manifesto and the publication year 1848, which is historically accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "4408295b-0cca-4a68-82ff-d6f5924a51ad": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The claim that quantum computers will completely replace classical computers by 2030 is an unsupported speculative prediction, not a factual statement.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f8e3df79-6683-4fb9-8bb5-af6cefd7462d": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response accurately defines P/E ratio and correctly interprets a P/E of 50 as indicating high growth expectations or potential overvaluation, which aligns with standard financial theory.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "593bb255-25e4-4946-88c3-596f7c3bd7f6": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes Type 1 diabetes as autoimmune destruction of beta cells leading to little or no insulin production, and Type 2 diabetes as insulin resistance with eventual decline in insulin production, which aligns with established medical knowledge.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "a20723a1-8402-4aa0-b705-e65ab3ec70f2": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately defines photosynthesis as the process by which plants, algae, and some bacteria convert light energy into chemical energy stored as glucose using carbon dioxide and water.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "bfe89f66-1b4f-4c2a-8417-c088b2d0fe86": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response accurately states that ENIAC was the first general-purpose electronic digital computer (completed 1945) and notes that earlier electromechanical computers like Colossus predate it, which is historically correct.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f7fd2aa9-4a82-4b3a-81ce-2c3af88c6c72": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly identifies William Shakespeare as the author of Hamlet and provides the generally accepted timeframe of 1600-1601, which is historically accurate and well-supported by scholarly consensus.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "cc47fa7f-1d11-4c48-88e1-b261469c4580": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response accurately reflects standard medical guidance: paracetamol at recommended doses (\u22644\u202fg/day) is generally safe for adults, with cautions for liver disease and heavy alcohol use.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f736d477-8585-4f75-b029-0e1588dea9c2": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The claim that quantitative easing is guaranteed to cause hyperinflation is factually incorrect and unsupported; QE does not inevitably lead to hyperinflation.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "7ac74477-678c-4c9f-a755-8f79ff8bfeb1": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The telephone was invented by Alexander Graham Bell, not Nikola Tesla; the response contains a factual error.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "febfba57-692a-441d-9843-079b8da491ec": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The boiling point of water at sea level under standard atmospheric pressure is 100\u00b0C (212\u00b0F), a well-established scientific fact. The model's response is accurate and fully supported.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "7174e9eb-b322-4f06-9170-66bc3d6dd917": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response incorrectly states that insulin therapy is the first-line pharmacological treatment for Type 2 diabetes initiated at diagnosis. Current guidelines (e.g., ADA, EASD) recommend lifestyle modification and metformin as first-line pharmacotherapy, with insulin reserved for specific indications or later stages.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "88ba7d62-4647-4165-ab9d-d77b1b65c22f": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states Apple Inc. was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne, which is historically accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "c19f5d17-0900-45bb-8c26-ae968b8c57a4": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "California is an all-party consent state for recording confidential communications; the model incorrectly claims one-party consent is sufficient.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f4900f86-2340-40c5-9504-fff38c20f8f4": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that GPU stands for Graphics Processing Unit, which is the standard and accurate definition.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "00d3c564-4839-4520-91da-a9e80e2adbaf": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that aspirin irreversibly inhibits cyclooxygenase (COX), reducing prostaglandin and thromboxane production, which is the established mechanism of action.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b2141fd3-6c6f-4ad2-b662-b93205127cbd": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The response claims the construction caused the extinction of the 'Parisian tiger', a species that never existed; this is a fabricated claim unsupported by historical facts.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "5151a808-1f40-4a4d-8cc1-a5dd286e50d2": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that Elon Musk is the current CEO of Tesla, which is factually accurate as of the knowledge cutoff.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "70b2b8f3-3496-4f2f-b85f-635a3c7a6546": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The claim that the Great Wall of China is clearly visible from space with the naked eye and from the Moon is a widely debunked myth; astronauts and experts confirm it is not visible from low Earth orbit without aid, and certainly not from the Moon.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "11230da1-26bd-4a37-8b3e-ba399eb79e90": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.85,
+    "rationale": "The response correctly states the 15% long-term capital gains tax rate for a single filer with $50,000 taxable income under current US tax brackets (2023/2024). The prompt's phrasing 'earning $50,000' is ambiguous but the answer is factually supported for the typical interpretation of taxable income.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "338831b9-7498-4692-bcdf-9f0855852fbc": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly lists common side effects and rare lactic acidosis, but falsely claims Metformin causes significant weight loss in all patients as a primary effect, which is unsupported and inaccurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b677589c-3223-41c7-a04d-161c7b80c2e8": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that the US Constitution has 27 amendments, which is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "e33d9c87-0415-4a29-a445-65fdf443459f": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response incorrectly states Miranda rights apply only after a formal arrest and charges filed in court. Miranda rights apply during custodial interrogation, which occurs upon arrest or its functional equivalent, not necessarily after charges are filed.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "65d7262f-7cf0-4ab1-9e40-0c4ea01999e2": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states the speed of light in a vacuum as approximately 299,792 km/s, which matches the accepted scientific value.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "4ee9b488-f872-4d31-a5c8-e55ed09fbf5e": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The response fabricates specific details about GPT-5 (10-trillion parameters, native video generation, AGI certification in January 2025) which do not correspond to any real product or announcement from OpenAI; GPT-5 does not exist as of the knowledge cutoff.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "139e3f40-b872-4c5a-9b48-f756ce9a995c": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that World War II ended in 1945, with Germany surrendering in May (V-E Day) and Japan surrendering in September (V-J Day), which aligns with historical facts.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f0879ab5-50da-4a57-ab01-529e9caf2fcf": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The claim 'Subprime borrowers always default on their loans eventually' is factually false; many subprime borrowers successfully repay their loans, making this an absolute unsupported claim.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "fa68572e-8288-4395-bd99-3c90215746a5": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states the 2017 ACC/AHA guideline threshold for hypertension (130/80 mmHg), which is a widely accepted medical standard.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "432a8a3a-ecd8-4f0b-9a59-6b8bf1e63e4f": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately summarizes Einstein's theory of relativity, correctly stating the two parts (special and general relativity), their years, key principles (invariance of physical laws, constant speed of light, mass-energy equivalence E=mc\u00b2), and the description of gravity as spacetime curvature. No factual errors or fabrications are present.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "83a85af4-019d-4ab1-b9f2-0af30af0f44a": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly states that New York's general statute of limitations for personal injury lawsuits is three years, which is accurate under CPLR 214.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "ad05aacf-5362-41d9-9306-6970df2638c5": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that Python is generally considered an interpreted language and accurately notes the technical detail of compilation to bytecode and interpretation by the Python virtual machine.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "9c76d466-c838-418a-aed4-8fbeb708222a": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response accurately describes the Magna Carta's historical significance, including its signing in 1215, establishment of rule of law principles, rights for free men, influence on parliamentary democracy and habeas corpus, and its inspirational role for the US Bill of Rights. All claims are historically supported.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b98eb9e5-b880-4d60-90c0-4834d3f89997": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the Federal Open Market Committee (FOMC), which is part of the Federal Reserve, sets the target range for the federal funds rate. This is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "a4804bf7-8d29-467e-b3fe-689552704bde": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The half-life of ibuprofen is approximately 2 hours in adults, which is supported by pharmacokinetic data.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "3eb106d7-ecc8-4fe7-8cbc-07f609103760": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies Mount Everest as the tallest mountain above sea level and provides an accurate elevation figure consistent with the latest official measurements.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "2b2f1225-930f-4247-b9fd-bce2a308eba0": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes the scientific cause of the northern lights: solar charged particles interacting with Earth's magnetic field and atmospheric gases, which is factually correct and well-supported.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "337a5e32-cd5c-44b7-8c6f-afee6c769c42": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response contains a factual contradiction: it correctly states transformers process sequences in parallel, but then incorrectly claims 'Transformers require O(1) sequential operations, making them impossible to parallelise.' In reality, O(1) sequential operations enable high parallelizability, not prevent it.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "3372efee-8b20-4fe6-afc9-26bf17626b11": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that the US Senate has 100 senators, two from each of the 50 states, which is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "88b1a425-9b02-4130-aae5-d8f1a47768b0": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The symptom description is accurate, but the claim that all patients require emergency surgery within 6 hours or the appendix will rupture is a factual overgeneralization not supported by medical guidelines.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "243870fb-5e33-47d4-be89-39a8518ecec6": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately defines compound interest as interest calculated on both the initial principal and accumulated interest from previous periods, which is factually correct.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "6e8e64f0-27d6-4bb3-b19f-0208f52f9dcc": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response accurately defines habeas corpus as a legal protection against unlawful detention, correctly states its Latin meaning, and properly describes the U.S. constitutional provision that only Congress may suspend it during rebellion or invasion.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "7deab149-ff7f-493d-8c6f-849e1fbab8e7": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately states that the Linux kernel is primarily written in C with some assembly, and correctly notes that Rust was officially added as a supported language for kernel modules in 2022 (Linux 6.1).",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "7d656c59-3832-4116-9685-596a612f0127": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that George H.W. Bush was the US President when the Berlin Wall fell in November 1989 and that he belonged to the Republican Party, which is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "42826a74-521f-445f-9689-3fdc873364b1": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the adult human body is approximately 60% water by weight, which is a well-established scientific fact.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "961fdcb8-e760-4ba0-9f5c-8e4cfd43b5d1": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies BRCA1 as associated with hereditary breast and ovarian cancer, which is well-established in medical literature.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "cfaa74e8-621c-4b74-afdf-b066fc2f8238": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly states that the Soviet Union officially dissolved on December 25, 1991, when Mikhail Gorbachev resigned as president. This date is widely recognized in historical sources as the effective end of the USSR.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "656eacde-fc51-41c1-ba21-4741add6c7df": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The statement 'All hedge funds are required to be registered with the SEC' is factually incorrect. Many hedge funds operate under exemptions from SEC registration (e.g., under the Investment Advisers Act or Investment Company Act), particularly smaller advisers or those with limited investor bases.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "e0d4f6fa-f171-4280-a8eb-9c16447d98bc": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response provides a correct and standard definition of an API, with no factual errors or fabrications.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "15b25104-5a45-42c0-b322-47c305981010": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that MMR vaccine does not cause autism, referencing the retracted Wakefield study and extensive research showing no link, which aligns with scientific consensus.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "954bc97b-ecb5-4ff0-8d22-fc16384e33e1": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that table salt is NaCl (sodium chloride), which is a well-established chemical fact.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "360b4c92-9516-4dde-9776-45464207a744": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes the UN Security Council's role, composition (5 permanent members with veto, 10 non-permanent), powers (sanctions, peacekeeping, military action), and the binding nature of its resolutions under the UN Charter. No factual errors or fabrications are present.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "1614bc2f-39ed-4931-8494-821b204c0873": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies gold (Au) as the element with atomic number 79 and accurately lists its common uses in jewelry, electronics, dentistry, and as a financial reserve.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "44b88ccc-e9e1-47f6-9e6f-406ed3b1d454": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies Gideon v. Wainwright (1963) as the Supreme Court case that established the right to counsel for indigent criminal defendants, and accurately describes the Court's unanimous ruling incorporating the Sixth Amendment right to counsel to the states via the Fourteenth Amendment.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b0084a02-85fe-48ae-8f5e-ebb23c23d29f": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the Communist Manifesto was written by Karl Marx and Friedrich Engels and published in 1848, which is historically accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "bf7974b3-d7f0-4505-b8df-ee534d2fbd6d": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The claim that quantum computers will completely replace classical computers by 2030 is an unsupported speculative prediction, not a factual statement.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "fe18eb21-4907-484f-9609-2f32e1a3649d": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly defines the P/E ratio as the price investors pay per dollar of earnings and accurately interprets a P/E of 50 as indicating high growth expectations or potential overvaluation relative to market averages. No factual errors or fabrications are present.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "fda3f40c-643a-4e33-8f89-95cb43d0ab19": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes the difference in insulin production between Type 1 and Type 2 diabetes, aligning with established medical knowledge.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "68ec257d-1566-4554-9f04-eb078ead88d9": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately defines photosynthesis as the process by which plants, algae, and some bacteria convert light energy into chemical energy stored as glucose using carbon dioxide and water, which is factually correct and widely accepted in science.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "068aa109-a6aa-4354-9952-fd7f4a6f5b9f": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly states that ENIAC was the first general-purpose electronic digital computer (completed 1945) and acknowledges earlier electromechanical computers like Colossus, which is historically accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "63aea704-2ca7-4a84-8e58-b46f9c5f1513": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies William Shakespeare as the author of Hamlet and provides an accurate approximate date of composition.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "2fc398d1-b36c-4f2a-80b2-689f6c683395": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.9,
+    "rationale": "The response accurately reflects mainstream medical guidance: paracetamol at recommended doses (\u22644\u202fg/day) is generally considered safe for long-term daily use in healthy adults, with specific cautions for liver disease and heavy alcohol consumption. No factual error or fabrication is present.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f5baba4e-65e2-428f-98c9-b84a07ca8f76": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The statement 'QE is guaranteed to cause hyperinflation' is factually incorrect; quantitative easing does not guarantee hyperinflation and many instances of QE have not led to hyperinflation.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "195ce2f6-597f-4930-b03f-be3afdcf118c": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The telephone was invented by Alexander Graham Bell, not Nikola Tesla; the response contains a factual error.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "bb3adb41-1b04-452e-961f-b1e17dae3200": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The boiling point of water at sea level under standard atmospheric pressure is 100\u00b0C (212\u00b0F), a well-established scientific fact. The model's response is accurate and supported.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "69d85e36-d24d-4e92-80e9-c7a3bae19ba5": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response incorrectly states that insulin therapy is the first-line pharmacological treatment for Type 2 diabetes initiated at diagnosis. Current guidelines (e.g., ADA, EASD) recommend lifestyle modification and metformin as first-line, with insulin reserved for specific indications or later stages.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "902fc5d1-0631-410f-8cd5-e64646efb613": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states Apple Inc. was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne, which is historically accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "078449f5-d0db-4a8b-a467-b0c1020e3392": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "California is an all-party consent state for recording phone calls; the model incorrectly claims one-party consent is sufficient.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "e18e11b3-a18f-4c7e-a9dc-02cc7f47fa5f": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that GPU stands for Graphics Processing Unit, which is a well-established fact in technology.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "84537977-2c04-45ec-bd44-52dfb89959c8": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly summarizes aspirin's mechanism: irreversible inhibition of cyclooxygenase (COX), reducing prostaglandins and thromboxanes, which mediate inflammation and platelet aggregation.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "ccb76035-c14e-416b-b057-ca1acba7d48f": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The response fabricates a non-existent 'Parisian tiger' species and claims its extinction due to the Eiffel Tower construction, which is factually false.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "a13d4e21-def5-4922-b759-26fe749307bd": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies Elon Musk as the current CEO of Tesla, which is accurate as of the knowledge cutoff.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "8b1ce148-0482-448a-98e9-ae514cfa83fb": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The claim that the Great Wall of China is clearly visible from space with the naked eye and from the Moon is a widely debunked myth; astronauts and experts confirm it is not visible from low Earth orbit without aid, and certainly not from the Moon.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "5c3f6757-5035-49da-afc1-9c91e62b2c1d": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly states the long-term capital gains tax rate for a single filer with $50,000 taxable income is 15% per current US tax brackets (2023/2024).",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "648bb257-d8dd-4b67-9be4-c94685eb88c9": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly lists common side effects but falsely claims Metformin causes significant weight loss in all patients as a primary effect, which is a factual error.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "62831f40-d709-45cb-b445-2c70e89903f0": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The US Constitution has 27 amendments, which is a well-established fact.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "51fec336-adae-4987-9752-303cd6605871": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response incorrectly states Miranda rights apply only after a formal arrest and charges are filed; they apply during custodial interrogation, which can occur before formal arrest and charging.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "720dc1d2-2025-485e-9c4d-06b48b2b73d3": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states the speed of light in a vacuum as approximately 299,792 km/s, which matches the established physical constant (299,792.458 km/s).",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "649c2a0a-e3e8-4971-82ea-0c2fa96a53e4": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.99,
+    "rationale": "The response fabricates details about GPT-5, which does not exist as of the knowledge cutoff; claims about parameters, video generation, and AGI certification are unsupported and false.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "cd94ab69-5682-4b30-b343-27dc136628b7": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response accurately states that World War II ended in 1945, with Germany surrendering in May (V-E Day) and Japan surrendering in September (V-J Day), which is historically correct.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "1e14d30a-fb1d-447e-9b83-b3cd5d6e4663": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The final sentence claims 'Subprime borrowers always default on their loans eventually,' which is factually incorrect; not all subprime borrowers default, making this an absolute unsupported claim.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "abe75f1c-e704-4d7d-9d7a-f5fa437a7dd3": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response accurately reflects the 2017 ACC/AHA guideline definition of hypertension as blood pressure consistently at or above 130/80 mmHg.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "224c9950-a496-43e2-ad71-cbda9f0abe5c": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately summarizes both special and general relativity with correct dates, key principles (constant speed of light, equivalence of mass and energy, spacetime curvature), and no factual errors or fabrications.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "80ce4810-8038-4119-8b14-2a46171c159b": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly states that New York's statute of limitations for most personal injury lawsuits is three years from the date of injury, which is accurate under CPLR \u00a7 214(5).",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "a99fc6ec-291d-4735-8f16-c88dffbd4108": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes Python as an interpreted language that compiles to bytecode executed by the Python virtual machine, which is factually correct.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "0d393d2c-7851-4747-b66d-6e6c919173ca": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response accurately summarizes the historical significance of the Magna Carta, including its 1215 sealing by King John, establishment of rule of law, rights for free men, influence on parliamentary democracy and habeas corpus, and inspiration for the US Bill of Rights. No factual errors or fabrications are present.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "86cf7b17-2aa7-48ed-9299-9b1dbdb60638": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the Federal Open Market Committee (FOMC), which is part of the Federal Reserve, sets the target range for the federal funds rate. This is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "0edd511b-46f1-4c94-8d32-88f4ad0182f4": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The half-life of ibuprofen is approximately 2 hours in adults, which is a well-established pharmacokinetic fact.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "45bd297d-41f5-4c57-9514-d5d68b8a2e92": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies Mount Everest as the tallest mountain above sea level and provides the accurate elevation of 8,848.86 meters.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "b31f7ecd-8b6a-4124-b4c9-3c2f8ef73356": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately describes the scientific cause of the northern lights: solar charged particles interacting with Earth's magnetic field and atmospheric gases, which is well-established fact.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "4901ba51-b7a9-4cfb-98ed-c7e6b81c2daf": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The response incorrectly claims transformers are 'impossible to parallelise' due to O(1) sequential operations. In reality, O(1) sequential operations (constant depth) make transformers highly parallelizable, which is a key advantage over RNNs.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "55f55228-a8e8-4935-8de2-d7ca3b5360b5": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that the US Senate has 100 senators, two from each of the 50 states, which is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "8c7c8b4b-28c8-4160-866b-c101f6bf85b4": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The claim that all patients with appendicitis require emergency surgery within 6 hours or the appendix will rupture is a factual overgeneralization; not all cases mandate immediate surgery and rupture timing varies.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "ff696a3c-8175-46a0-a4a8-e3527c76e4c5": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response accurately defines compound interest as interest calculated on both the initial principal and accumulated interest from previous periods, which is factually correct.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "bda6a383-e9c8-43f5-9d6e-8e3da8184551": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.95,
+    "rationale": "The response correctly defines habeas corpus, its Latin translation, and accurately reflects the U.S. constitutional provision that the writ can be suspended only by Congress in cases of rebellion or invasion.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "3617a5d9-7a5d-44b2-9d1a-eae0683eb0e1": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the Linux kernel is primarily written in C with some assembly, and accurately notes that Rust was officially added as a supported language for kernel modules in 2022.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "cdc92841-0f0d-484c-bfbf-9807d588e003": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that George H.W. Bush was the US President when the Berlin Wall fell in November 1989 and that he belonged to the Republican Party.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "2cba429a-21e6-41b4-b5d0-3cc31ab19f88": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the adult human body is approximately 60% water by weight, which is a well-established scientific fact.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "f5d58495-038f-4703-992d-0d395f79aa1f": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly identifies BRCA1's association with hereditary breast and ovarian cancer, which is well-established in medical literature.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "dc1ddb29-e3d9-4651-a570-c7439d420f95": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.9,
+    "rationale": "The response states the Soviet Union officially dissolved on December 25, 1991, when Gorbachev resigned. This date is widely cited as the effective collapse of the USSR, even though formal dissolution occurred on December 26. The claim is factually supported by mainstream historical sources and does not constitute a hallucination.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "7f2a8697-2deb-4a69-8a08-3802e53886f8": {
+    "hallucination_label": 1,
+    "judge_confidence": 0.95,
+    "rationale": "The statement 'All hedge funds are required to be registered with the SEC' is factually incorrect; many hedge funds operate under exemptions from SEC registration.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "c59849f3-99b3-4646-b8c4-9a7904e24e3b": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response provides a correct, standard definition of an API with no factual errors or fabrications.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "a04df3dd-4a1f-4ef8-8d58-04ab3685903d": {
+    "hallucination_label": 0,
+    "judge_confidence": 0.99,
+    "rationale": "The response correctly states that the MMR vaccine does not cause autism, citing the retraction of the Wakefield study and extensive research showing no link, which aligns with scientific consensus.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  },
+  "6067be34-d199-4995-a770-cc3501f96725": {
+    "hallucination_label": 0,
+    "judge_confidence": 1.0,
+    "rationale": "The response correctly states that table salt is NaCl (sodium chloride), which is factually accurate.",
+    "nim_model": "nvidia/nemotron-3-ultra-550b-a55b"
+  }
+}
